@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=174185&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e5963&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=71727a&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer,+Sou+Edison+Bitencourt;Tenho+43+anos;Sou+do+Brasil;De+Guarulhos-SP;Sou+Cientista+de+dados;Estudo+Ciência+de+dados+na+escola+EBAC;Tenho+certificação+internacional+no;Massachusetts+Institute+of+Technology+-+MIT;Tenho+especialização+em;Ciência+de+dados+na;The+Johns+Hopkins+University;Entre+outros+cursos;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e5963&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer,+Sou+Edison+Bitencourt;Tenho+43+anos;Sou+do+Brasil;De+Guarulhos-SP;Sou+Cientista+de+dados;Estudo+Ciência+de+dados+na+escola+EBAC;Tenho+certificação+internacional+no;Massachusetts+Institute+of+Technology+-+MIT;Tenho+especialização+em;Ciência+de+dados+na;The+Johns+Hopkins+University;Entre+outros+cursos;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/-Python-f4fa50?style=for-the-badge&logo=python&labelColor=f4fa50)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-71727a?style=for-the-badge&logo=sql&labelColor=71727a)&nbsp;
