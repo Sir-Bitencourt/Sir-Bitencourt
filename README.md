@@ -4,6 +4,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-baa547?style_for-the-badge&logo_python&labelColor_baa547)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-71727a?style=for-the-badge&logo=sql&labelColor=71727a)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power_BI-71727a?style=for-the-badge&logo=Power_BI&labelColor=71727a)&nbsp;
 
 Here are some ideas to get you started:
 
