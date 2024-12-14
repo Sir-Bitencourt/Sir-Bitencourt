@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=878167&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edison+Bitencourt;I'm+43+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=71727a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Sou+Edison+Bitencourt;Tenho+43+anos;Sou+do+Brazil;Guarulhos-SP;Sou+Cientista+de+dados;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
 
-![Python](https://img.shields.io/badge/-Python-baa547?style_for-the-badge&logo_python&labelColor_baa547)&nbsp;
+![Python](https://img.shields.io/badge/-Python-baa547?style=for-the-badge&logo=python&labelColor_baa547)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-71727a?style=for-the-badge&logo=sql&labelColor=71727a)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power_BI-71727a?style=for-the-badge&logo=Power_BI&labelColor=71727a)&nbsp;
 
