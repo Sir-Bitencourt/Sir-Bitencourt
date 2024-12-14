@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<img width 100% src="https://capsule-render.vercel.app/api?type_waving&color_878167&height_120&section_header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=878167&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edison+Bitencourt;I'm+43+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
