@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-<!--
-**Sir-Bitencourt/Sir-Bitencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width 100% src="https://capsule-render.vercel.app/api?type_waving&color_878167&height_120&section_header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edison+Bitencourt;I'm+43+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+![Python](https://img.shields.io/badge/-Python-0D1117?style_for-the-badge&logo_python&labelColor_0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/_SQL_0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
 Here are some ideas to get you started:
 
