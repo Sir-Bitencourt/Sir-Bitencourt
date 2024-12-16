@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e5963&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2db57f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e5963&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer,+Sou+Edison+Bitencourt;Tenho+43+anos;Sou+do+Brasil;De+Guarulhos-SP;Sou+Cientista+de+dados;Estudo+Ciência+de+dados+na+escola+EBAC;Tenho+certificação+internacional+no;Massachusetts+Institute+of+Technology+-+MIT;Tenho+especialização+em;Ciência+de+dados+na;The+Johns+Hopkins+University;Entre+outros+cursos;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2db57f&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer,+Sou+Edison+Bitencourt;Tenho+43+anos;Sou+do+Brasil,+de+Guarulhos-SP;Sou+Cientista+de+dados;Estudo+Ciência+de+dados+na+escola+EBAC;Tenho+certificação+internacional+no;Massachusetts+Institute+of+Technology+-+MIT;Tenho+especialização+em;Ciência+de+dados+na;The+Johns+Hopkins+University;Entre+outros+cursos;Acesse+meu+Linkedin+e+saiba+mais;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/-Python-f4fa50?style=for-the-badge&logo=python&labelColor=f4fa50)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-71727a?style=for-the-badge&logo=sql&labelColor=71727a)&nbsp;
@@ -15,14 +15,14 @@
 ![Talend](https://img.shields.io/badge/-Talend-ab4365?style=for-the-badge&logo=talend&labelColor=ab4365)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-1e7d3f?style=for-the-badge&logo=excel&labelColor=1e7d3f)&nbsp;
 
-Here are some ideas to get you started:
+- 🔭 Atualmente, estou trabalhando na área comercial de uma empresa de contabilidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Sou aluno da profissão de Cientista de dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em Analise e desenvolvimento de sistemas pela Universidade Sumaré (conclusão Julho/2025) e em curso de Data Science pela The Johns Hopkins University.
+ 
+- 🤔 Estou procurando ajuda para fazer estágio na área ou ingressar na carreira como cientista de dados júnior, pode me ajudar ?
+
+- 💬 Pergunte-me sobre área comercial, tenho 18 anos de experiência no varejo e possuo MBA pela Universidade de São Paulo - SP em Gestão de Varejo físico e online.
+
+- 📫 Como entrar em contato comigo: pelo fone (11) 91070-0893 ou pelo e-mail: sirdr.bitencourt@hotmail.com .
+
+- ⚡ Curiosidade: Sou uma pessoa calma, otimista, empática, criativa e que tem prazer em solucionar problemas. Como profissional, tenho por hábito vestir a camisa da organização em que estou trabalhando e empresas em que trabalhei mais de um ano, estou acostumado a ser promovido. 
