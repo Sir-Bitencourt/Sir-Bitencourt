@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2db57f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2db57f&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer,+Sou+Edison+Bitencourt;Tenho+43+anos;Sou+do+Brasil,+de+Guarulhos-SP;Sou+Cientista+de+dados;Estudo+Ciência+de+dados+na+escola+EBAC;Tenho+certificação+internacional+no;Massachusetts+Institute+of+Technology+-+MIT;Tenho+especialização+em;Ciência+de+dados+na;The+Johns+Hopkins+University;Entre+outros+cursos;Acesse+meu+Linkedin+e+saiba+mais;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2db57f&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer,+Sou+Edison+Bitencourt;Tenho+43+anos;Sou+do+Brasil,+de+Guarulhos-SP;Sou+Cientista+de+dados;Estudo+Ciência+de+dados+na+escola+EBAC;Tenho+certificação+internacional+no;Massachusetts+Institute+of+Technology+-+MIT;Entre+outros+cursos;Acesse+meu+Linkedin+e+saiba+mais;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/-Python-f4fa50?style=for-the-badge&logo=python&labelColor=f4fa50)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-71727a?style=for-the-badge&logo=sql&labelColor=71727a)&nbsp;
@@ -17,9 +17,9 @@
 
 - 🔭 Atualmente, estou trabalhando na área comercial de uma empresa de contabilidade.
 
-- 🌱 Sou aluno da profissão de Cientista de dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em Analise e desenvolvimento de sistemas pela Universidade Sumaré (conclusão Julho/2025) e em curso de Data Science pela The Johns Hopkins University.
+- 🌱 Sou aluno da profissão de Cientista de dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia e graduando em Analise e desenvolvimento de sistemas pela Universidade Sumaré (conclusão Julho/2026).
  
-- 🤔 Estou procurando ajuda para fazer estágio na área ou ingressar na carreira como cientista de dados júnior, pode me ajudar ?
+- 🤔 Estou procurando estágio na área de ciência de dados, analista de dados ou ingressar na carreira como cientista de dados júnior, pode me ajudar ?
 
 - 💬 Pergunte-me sobre área comercial, tenho 18 anos de experiência no varejo e possuo MBA pela Universidade de São Paulo - SP em Gestão de Varejo físico e online.
 
