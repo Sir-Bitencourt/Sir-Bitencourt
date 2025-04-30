@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2db57f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2db57f&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer,+Sou+Edison+Bitencourt;Tenho+43+anos;Sou+do+Brasil,+de+Guarulhos-SP;Sou+Cientista+de+dados;Estudo+Ciência+de+dados+na+escola+EBAC;Tenho+certificação+internacional+no;Massachusetts+Institute+of+Technology+-+MIT;Entre+outros+cursos;Acesse+meu+Linkedin+e+saiba+mais;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2db57f&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer,+Sou+Edison+Bitencourt;Tenho+43+anos;Sou+do+Brasil,+de+Guarulhos-SP;Sou+Desenvolvedor+Web;Estudo+Desenvolvedor+FullStack+Java+na+escola+EBAC;Tenho+certificação+internacional+no;Massachusetts+Institute+of+Technology+-+MIT;Entre+outros+cursos;Acesse+meu+Linkedin+e+saiba+mais;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -11,6 +11,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Less](https://img.shields.io/badge/-Less-1D365D?style=for-the-badge&logo=less&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
