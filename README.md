@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2db57f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2db57f&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer,+Sou+Edison+Bitencourt;Tenho+44+anos;Sou+do+Brasil,+de+Guarulhos-SP;Sou+Desenvolvedor+Web;Estudo+Desenvolvedor+FullStack+Java;Na+escola+EBAC;Tenho+certificação+internacional+no;Massachusetts+Institute+of+Technology+-+MIT;Entre+outros+cursos;Acesse+meu+Linkedin+e+saiba+mais;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2db57f&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer,+Sou+Edison+Bitencourt;Tenho+44+anos;Sou+do+Brasil,+de+Guarulhos-SP;Sou+Desenvolvedor+Web;Estudo+Desenvolvedor+FullStack+Java;Na+escola+EBAC;Tenho+certificação+internacional+no;Massachusetts+Institute+of+Technology+-+MIT;Entre+outros+cursos;Acesse+meu+Linkedin+e+saiba+mais;Seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg);
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -33,6 +33,6 @@
 
 - 💬 Pergunte-me sobre área comercial, tenho 18 anos de experiência no varejo e possuo MBA pela Universidade de São Paulo - SP em Gestão de Varejo físico e online.
 
-- 📫 Como entrar em contato comigo: pelo fone (11) 91070-0893 ou pelo e-mail: sirdr.bitencourt@hotmail.com .
+- 📫 Como entrar em contato comigo: pelo fone (11) 91070-0893, pelo e-mail: sirdr.bitencourt@yahoo.com ou pelo meu portfólio https://portfolio-edison-psi.vercel.app/.
 
 - ⚡ Curiosidade: Sou uma pessoa calma, otimista, empática, criativa e que tem prazer em solucionar problemas. Como profissional, tenho por hábito vestir a camisa da organização em que estou trabalhando e empresas em que trabalhei mais de um ano, estou acostumado a ser promovido. 
