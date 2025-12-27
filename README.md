@@ -19,20 +19,28 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-- 👨‍💻 De gestor de negócios a desenvolvedor fullstack - Depois de 18 anos liderando equipes, otimizando operações e gerando resultados no varejo, descobri que podia gerar os mesmos resultados relevantes de outra forma: agora, com código.
+👨‍💻 De gestor a estrategista de dados. 
 
-- 🚀 O que me diferencia? - Trago uma bagagem sólida de estratégia e visão de produto, o que me permite desenvolver com propósito. Sei escutar o cliente, traduzir dores em funcionalidades e transformar uma ideia em um sistema que realmente funciona.
+Por quase uma década, atuei na linha de frente do varejo e da gestão comercial, liderando equipes, otimizando resultados e tomando decisões que impactaram diretamente o crescimento de negócios. Mas foi ao mergulhar nos dados que descobri o verdadeiro poder de transformar contextos com inteligência. 
 
-- 🔄 Hoje sou Desenvolvedor FullStack com experiência de mercado vivida na prática - Já reduzi rupturas de estoque em 22%, aumentei vendas em dois dígitos e modelei leads comerciais com base em perfis de comportamento. Entendo o que acontece no front e no back, e como usar isso a favor do negócio. Agora Desenvolvo aplicações modernas, escaláveis e orientadas à experiência do usuário. Estou me especializando em tecnologias como Spring Boot, Node.js, TypeScript, APIs REST, bancos relacionais e não-relacionais, construindo soluções completas, do banco as telas.
+💡 Hoje, conecto experiência prática com tecnologia de ponta. 
 
-- 🤖 Uso Inteligência Artificial, mas como aliada - A IA é minha aliada para acelerar entregas, revisar código e ganhar eficiência. Mas quem decide o que resolver, por que resolver e como entregar valor ao usuário, sou eu. Machine Learning pode escrever código. Mas a decisão que conecta pessoas, negócio e tecnologia ainda é humana. Máquinas não trazem o sentimento, a expertise e a vibração de alguém que vivenciou sentimentos e emoções do cliente, só um profissional humano pode trazer.
+Sou certificado pelo MIT em Data Science e Big Data - Decisões Baseadas em Dados e atualmente faço uma formação UltraDegree em Data Science and Artificial Intelligence pela DataTech Flórida. Minha atuação une a modelagem de dados, estudo de comportamento do cliente, resultados através de estratégias e mensuração de performance com visão analítica e olhar humano. 
 
-- 🤝 Um profissional preparado para o futuro - Sou um profissional que combina raciocínio técnico, mentalidade de produto e habilidades humanas, contribuindo com soluções robustas, eficientes e orientadas ao que realmente importa, entende o mercado e conecta tudo com propósito, na organização em que estou inserido, participo ativamente para gerar grandes soluções em conjunto.
- 
-- 🤔 Estou procurando estágio na área de Desenvolvimento Web, pode me ajudar ?
+🔄 Trago resultados com dados, e não apenas dados. 
+
+Já reduzi rupturas de estoque em 22%, aumentei vendas em 7% e modelei campanhas comerciais com base em perfis de comportamento. Entendo também o que acontece no front e no back e como usar isso a favor do negócio. 
+
+🚀 Minha missão é clara. 
+
+Atuar em projetos de Data Science com base em estatística, probabilidade, mensuração e pensamento analítico, o uso de ferramentas como Python, SQL, Power BI, Looker Studio e Excel para limpeza, exploração e modelagem de dados. Desenvolvimento de modelos de Machine Learning, análise preditiva, criação de dashboards interativos, storytelling com dados e modelagem de negócios orientada a métricas e KPIs, onde eu possa somar com visão estratégica, resiliência, ética e sede por aprendizado constante. O que me move é gerar valor com dados reais, para solução de problemas reais. 
+
+🤝 Vamos conversar? 
+
+Se busca alguém que fala a linguagem dos dados, entende o mercado e conecta tudo com propósito, podemos gerar grandes soluções juntos.
 
 - 💬 Pergunte-me sobre área comercial, tenho 18 anos de experiência no varejo e possuo MBA pela Universidade de São Paulo - SP em Gestão de Varejo físico e online.
 
-- 📫 Como entrar em contato comigo: pelo fone (11) 91070-0893, pelo e-mail: sirdr.bitencourt@yahoo.com ou pelo meu portfólio https://portfolio-edison-psi.vercel.app/.
+- 📫 Como entrar em contato comigo: pelo fone (11) 91070-0893, pelo e-mail: sirdr.bitencourt@yahoo.com ou pelo meu portfólio https://portfolio-ds-two-pearl.vercel.app/.
 
 - ⚡ Curiosidade: Sou uma pessoa calma, otimista, empática, criativa e que tem prazer em solucionar problemas. Como profissional, tenho por hábito vestir a camisa da organização em que estou trabalhando e empresas em que trabalhei mais de um ano, estou acostumado a ser promovido. 
